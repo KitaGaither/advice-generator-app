@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Advice Generator App
+        Advice Generator App(Practice)
       </header>
     </div>
   );
